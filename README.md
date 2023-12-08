@@ -1,6 +1,6 @@
-# Simon Says iOS App
+# Simon Says SwiftUI App
 
-Simon Says is an iOS 17 application developed using SwiftUI, featuring a classic memory and pattern recognition game.<br>
+Simon Says is an iOS 17 app developed using SwiftUI, featuring a classic memory and pattern recognition game.<br>
 The project employs the SwiftUI coordinator pattern to manage navigation within the app and follows the repository pattern for efficient model data retrieval. Below are technical details for developers interested in understanding its structure and key components.
 
 ### Introduction
