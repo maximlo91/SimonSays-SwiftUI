@@ -3,10 +3,6 @@
 Simon Says is an iOS 17 app developed using SwiftUI, featuring a classic memory and pattern recognition game.<br>
 The project employs the SwiftUI coordinator pattern to manage navigation within the app and follows the repository pattern for efficient model data retrieval. Below are technical details for developers interested in understanding its structure and key components.
 
-### Introduction
-Watch a brief demonstration of the Simon Says app in action: <br>
-[Video]
-
 ### Project Structure
 
 - The app initiates with a brief Splash View, lasting one second, before transitioning via the app coordinator to the main Game View.
@@ -44,9 +40,9 @@ Note: These buttons are disabled during gameplay.
 
 ### Screenshots
 
-<img src="https://github.com/maximlo91/SimonSays-SwiftUI/assets/58986034/5d3ff7e3-01b9-45a7-be57-9349a6385e58" width="200" height="450"> 
-&ensp;&ensp;&ensp;&ensp; <img src="https://github.com/maximlo91/SimonSays-SwiftUI/assets/58986034/71f4ca2b-eaee-47a8-b2f4-e821cfe8953b" width="225" height="450">
-&ensp;&ensp;&ensp;&ensp; <img src="https://github.com/maximlo91/SimonSays-SwiftUI/assets/58986034/5f5d637c-2568-4511-897e-34e5becbb25e" width="225" height="450">
+<img style="border:2px solid black;" src="https://github.com/maximlo91/SimonSays-SwiftUI/assets/58986034/5d3ff7e3-01b9-45a7-be57-9349a6385e58" width="200" height="450"> 
+&ensp;&ensp;&ensp;&ensp; <img style="border:2px solid black;" src="https://github.com/maximlo91/SimonSays-SwiftUI/assets/58986034/71f4ca2b-eaee-47a8-b2f4-e821cfe8953b" width="225" height="450">
+&ensp;&ensp;&ensp;&ensp; <img  style="border:2px solid black;" src="https://github.com/maximlo91/SimonSays-SwiftUI/assets/58986034/5f5d637c-2568-4511-897e-34e5becbb25e" width="225" height="450">
 
 
 ## Getting Started
