@@ -44,8 +44,13 @@ Note: These buttons are disabled during gameplay.
 
 ### Screenshots
 
-![Screenshot 1](path/to/image1.png) &ensp;&ensp;&ensp;&ensp; ![Screenshot 2](path/to/image2.png)  &ensp;&ensp;&ensp;&ensp; ![Screenshot 3](path/to/image3.png)  
-*Image 1* &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; *Image 2* &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; *Image 3*
+<img src="https://github.com/maximlo91/SimonSays-SwiftUI/assets/58986034/5d3ff7e3-01b9-45a7-be57-9349a6385e58" width="250" height="500"> 
+&ensp;&ensp;&ensp;&ensp; <img src="https://github.com/maximlo91/SimonSays-SwiftUI/assets/58986034/71f4ca2b-eaee-47a8-b2f4-e821cfe8953b" width="250" height="500">
+&ensp;&ensp;&ensp;&ensp; <img src="https://github.com/maximlo91/SimonSays-SwiftUI/assets/58986034/5f5d637c-2568-4511-897e-34e5becbb25e" width="250" height="500">
+
+*Game View* &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+*Leaderboards View* &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+*Settings View*
 
 
 ## Getting Started
